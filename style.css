@@ -1,0 +1,43 @@
+body {
+   
+}
+#cartao {
+    width: 100%;
+    height: 350px;
+    border: 140px;
+    }
+    .principal{
+      background: #cccccc;
+      padding: 30px;
+    }
+.titulo-principal {
+   padding-left: 20px;
+}
+.titulo-centralizado {
+    text-align: center;
+    
+ }
+ strong {
+    color: red;
+
+ }
+.itens {
+      font-style:italic ;
+   }
+.beneficios{
+      background: #ffffff;
+      padding: 20px;
+      
+   }
+
+   ul {
+      
+      display: inline-block;
+      vertical-align: top;
+      width: 20%;
+      margin-right: 15%;
+
+   }
+.imagemrobozinho2 {
+      width: 50%;
+   }
